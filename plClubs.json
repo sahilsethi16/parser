@@ -5,121 +5,141 @@
       "name": "Burnley FC",
       "code": "BUR",
       "country": "England",
-      "stadium": "Turf Moor"
+      "stadium": "Turf Moor",
+      "image": "https://1000logos.net/wp-content/uploads/2021/02/Burnley-Logo-1960.png"
     },
     {
       "name": "Manchester United FC",
       "code": "MUN",
       "country": "England",
-      "stadium": "Old Trafford"
+      "stadium": "Old Trafford",
+      "image": "https://logos-world.net/wp-content/uploads/2020/06/Red-Devils-logo.png"
     },
     {
       "name": "Manchester City FC",
       "code": "MCI",
       "country": "England",
-      "stadium": "Etihad Stadium"
+      "stadium": "Etihad Stadium",
+      "image": "https://download.logo.wine/logo/Manchester_City_F.C./Manchester_City_F.C.-Logo.wine.png"
     },
     {
       "name": "Aston Villa FC",
       "code": "AVL",
       "country": "England",
-      "stadium": "Villa Park"
+      "stadium": "Villa Park",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Aston_Villa_FC_crest_%282016%29.svg/1200px-Aston_Villa_FC_crest_%282016%29.svg.png"
     },
     {
       "name": "Brenford FC",
       "code": "BRE",
       "country": "England",
-      "stadium": "Brenford Community Stadium"
+      "stadium": "Brenford Community Stadium",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png"
     },
     {
       "name": "Arsenal FC",
       "code": "ARS",
       "country": "England",
-      "stadium": "Emirates Stadium"
+      "stadium": "Emirates Stadium",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png"
     },
     {
       "name": "Crystal Palace FC",
       "code": "CRY",
       "country": "England",
-      "stadium": "Selhurst Park"
+      "stadium": "Selhurst Park",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Crystal_Palace_FC_logo.svg/1200px-Crystal_Palace_FC_logo.svg.png"
     },
     {
       "name": "Southampton FC",
       "code": "SOU",
       "country": "England",
-      "stadium": "St. Mary Stadium"
+      "stadium": "St. Mary Stadium",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/1200px-FC_Southampton.svg.png"
     },
     {
       "name": "Liverpool FC",
       "code": "LIV",
       "country": "England",
-      "stadium": "Anfield"
+      "stadium": "Anfield",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png"
     },
     {
       "name": "Leeds United FC",
       "code": "LEE",
       "country": "England",
-      "stadium": "Elland Road"
+      "stadium": "Elland Road",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png"
     },
     {
       "name": "West Ham United FC",
       "code": "WHU",
       "country": "England",
-      "stadium": "London Stadium"
+      "stadium": "London Stadium",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png"
     },
     {
       "name": "Newcastle United FC",
       "code": "NEW",
       "country": "England",
-      "stadium": "St. James' Park"
+      "stadium": "St. James' Park",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png"
     },
     {
       "name": "Norwich City FC",
       "code": "NOR",
       "country": "England",
-      "stadium": "Carrow Road"
+      "stadium": "Carrow Road",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Norwich_City.svg/1200px-Norwich_City.svg.png"
     },
     {
       "name": "Leicester City FC",
       "code": "LEI",
       "country": "England",
-      "stadium": "King Power Stadium"
+      "stadium": "King Power Stadium",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png"
     },
     {
       "name": "Tottenham Hotspur FC",
       "code": "TOT",
       "country": "England",
-      "stadium": "Tottenham Hotspur Stadium"
+      "stadium": "Tottenham Hotspur Stadium",
+      "image": "https://logos-world.net/wp-content/uploads/2020/06/Tottenham-Hotspur-symbol.png"
     },
     {
       "name": "Everton FC",
       "code": "EVE",
       "country": "England",
-      "stadium": "Goodison Park"
+      "stadium": "Goodison Park",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png"
     },
     {
       "name": "Watford FC",
       "code": "WAT",
       "country": "England",
-      "stadium": "Vicarage Road"
+      "stadium": "Vicarage Road",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/1200px-Watford.svg.png"
     },
     {
       "name": "Wolverhampton Wanderers FC",
       "code": "WOL",
       "country": "England",
-      "stadium": "Molineux Stadium"
+      "stadium": "Molineux Stadium",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png"
     },
     {
       "name": "Brighton & Hove Albion FC",
       "code": "BHA",
       "country": "England",
-      "stadium": "Amex Stadium"
+      "stadium": "Amex Stadium",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg"
     },
     {
       "name": "Chelsea FC",
       "code": "CHE",
       "country": "England",
-      "stadium": "Stamford Bridge"
+      "stadium": "Stamford Bridge",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png"
     }
   ]
 }
