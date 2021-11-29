@@ -1,0 +1,125 @@
+{
+  "name": "Premier League 2020/21",
+  "clubs": [
+    {
+      "name": "Burnley FC",
+      "code": "BUR",
+      "country": "England",
+      "stadium": "Turf Moor"
+    },
+    {
+      "name": "Manchester United FC",
+      "code": "MUN",
+      "country": "England",
+      "stadium": "Old Trafford"
+    },
+    {
+      "name": "Manchester City FC",
+      "code": "MCI",
+      "country": "England",
+      "stadium": "Etihad Stadium"
+    },
+    {
+      "name": "Aston Villa FC",
+      "code": "AVL",
+      "country": "England",
+      "stadium": "Villa Park"
+    },
+    {
+      "name": "Brenford FC",
+      "code": "BRE",
+      "country": "England",
+      "stadium": "Brenford Community Stadium"
+    },
+    {
+      "name": "Arsenal FC",
+      "code": "ARS",
+      "country": "England",
+      "stadium": "Emirates Stadium"
+    },
+    {
+      "name": "Crystal Palace FC",
+      "code": "CRY",
+      "country": "England",
+      "stadium": "Selhurst Park"
+    },
+    {
+      "name": "Southampton FC",
+      "code": "SOU",
+      "country": "England",
+      "stadium": "St. Mary Stadium"
+    },
+    {
+      "name": "Liverpool FC",
+      "code": "LIV",
+      "country": "England",
+      "stadium": "Anfield"
+    },
+    {
+      "name": "Leeds United FC",
+      "code": "LEE",
+      "country": "England",
+      "stadium": "Elland Road"
+    },
+    {
+      "name": "West Ham United FC",
+      "code": "WHU",
+      "country": "England",
+      "stadium": "London Stadium"
+    },
+    {
+      "name": "Newcastle United FC",
+      "code": "NEW",
+      "country": "England",
+      "stadium": "St. James' Park"
+    },
+    {
+      "name": "Norwich City FC",
+      "code": "NOR",
+      "country": "England",
+      "stadium": "Carrow Road"
+    },
+    {
+      "name": "Leicester City FC",
+      "code": "LEI",
+      "country": "England",
+      "stadium": "King Power Stadium"
+    },
+    {
+      "name": "Tottenham Hotspur FC",
+      "code": "TOT",
+      "country": "England",
+      "stadium": "Tottenham Hotspur Stadium"
+    },
+    {
+      "name": "Everton FC",
+      "code": "EVE",
+      "country": "England",
+      "stadium": "Goodison Park"
+    },
+    {
+      "name": "Watford FC",
+      "code": "WAT",
+      "country": "England",
+      "stadium": "Vicarage Road"
+    },
+    {
+      "name": "Wolverhampton Wanderers FC",
+      "code": "WOL",
+      "country": "England",
+      "stadium": "Molineux Stadium"
+    },
+    {
+      "name": "Brighton & Hove Albion FC",
+      "code": "BHA",
+      "country": "England",
+      "stadium": "Amex Stadium"
+    },
+    {
+      "name": "Chelsea FC",
+      "code": "CHE",
+      "country": "England",
+      "stadium": "Stamford Bridge"
+    }
+  ]
+}
